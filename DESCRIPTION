@@ -1,0 +1,9 @@
+Package: package.ivl
+Type: Package
+Title: Funciones básicas para probar la subida de un paquete
+Version: 1.0
+Date: 2015-12-26
+Author: Israel Vizcaíno
+Maintainer: Escribid vuestros comentarios a <israel.vizcaino@gmail.com>
+Description: Suma y multiplicación de números, y concatenacion de cadenas
+License: Ninguna
